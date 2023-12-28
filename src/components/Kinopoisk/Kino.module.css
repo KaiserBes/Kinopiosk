@@ -1,0 +1,22 @@
+* {
+  text-decoration: none;
+}
+
+.kino__box img {
+  width: 360px;
+  margin: 20px 0 0 0;
+  height: 380px;
+}
+.text__content {
+  display: flex;
+  justify-content: center;
+  color: #ff8c00;
+  transition: all 0.3s ease 0s;
+  margin: 10px 0 0 0;
+  text-align: center;
+}
+
+.text__content:hover {
+  color: #d07302;
+  text-decoration: underline;
+}

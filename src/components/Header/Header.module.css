@@ -1,0 +1,5 @@
+.navlink__parent {
+  display: flex;
+  justify-content: space-evenly;
+  width: 100%;
+}
